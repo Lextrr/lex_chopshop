@@ -8,7 +8,7 @@
 [![FiveM](https://img.shields.io/badge/FiveM-Resource-blue.svg)](https://fivem.net/)
 [![QBOX](https://img.shields.io/badge/Framework-QBOX-green.svg)](https://github.com/Qbox-project/qbx_core)
 [![ox_lib](https://img.shields.io/badge/ox__lib-Compatible-orange.svg)](https://github.com/overextended/ox_lib)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 A simple chop shop system for FiveM servers running the QBOX framework. Players can bring stolen vehicles to designated locations to break them down for valuable car parts and materials.
 
@@ -51,5 +51,6 @@ A simple chop shop system for FiveM servers running the QBOX framework. Players 
 **⭐ If you found this resource helpful, please give it a star! ⭐**
 
 Made with ❤️ for the FiveM community
+
 
 </div>
